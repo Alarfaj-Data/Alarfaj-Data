@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah Alarfaj</h1>
 <h3 align="center">Intrested in Data Science, Machine Learning, Artificial Intelligence, and NLP</h3>
 
-- 🌱 I’m currently working on improving my skills in **Data Engineering**
+- 🌱 I’m currently working on improving my skills in **Agentic AI**
+- I recently started working as a **Data Governance and Compliance Specialist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
