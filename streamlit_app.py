@@ -8,7 +8,7 @@ from google.oauth2.service_account import Credentials
 from streamlit_plotly_events import plotly_events
 
 # إعداد صفحة Streamlit
-st.set_page_config(layout="wide", page_title="🌳 مشجر أسرة آل جغيمان")
+st.set_page_config(layout="wide", page_title="🌳 مشجر أسرة آل عرفج")
 
 # ====== إضافة تسجيل الدخول ======
 @st.cache_data
