@@ -2,7 +2,7 @@
 <h3 align="center">Intrested in Data Science, Machine Learning, Artificial Intelligence, and NLP</h3>
 
 - 🌱 I’m currently working on improving my skills in **Agentic AI**
-- I recently started working as a **Data Governance and Compliance Specialist**
+- Data Management and Privacy Leader.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
